@@ -1,0 +1,32 @@
+.button{
+    background-color:rgb(125, 89, 89);
+    width: 259px;
+    color: white;
+    
+}
+
+input{
+    width: 250px;
+}
+
+.formflex{
+    display: flex;
+    justify-content: flex-start;
+    height: 520px;
+    margin-top: 50px;
+    gap: 25px;
+    background-color: whitesmoke;
+    padding: 8px;
+    padding-right: 30px;
+}
+.formflex >*{
+    flex-basis: 100%;
+}
+
+.error{
+    font-family:  Arial, sans-serif;
+    color: red;
+}
+.fr{
+    margin-top: 10px;
+}

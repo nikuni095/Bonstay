@@ -1,0 +1,28 @@
+
+.sec_book{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    line-height: .9;
+    margin-top: 50px;
+}
+.card_book{
+    height: 280px;
+    width:300px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    color: rgb(95, 60, 60);
+    text-align: center;
+}
+.btn_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px
+}
+.btn_main button{
+    width: 200px;
+    color: white;
+    background-color: rgb(95, 60, 60);
+}

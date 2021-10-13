@@ -1,0 +1,34 @@
+.viewR_main{
+    display: flex;
+    justify-content: center;
+}
+
+.viewR_sec{
+    width: 530px;
+    height:max-content;
+   background-color: whitesmoke;
+   margin-top: 100px;
+   border-radius: 4px;
+   color: rgb(95, 60, 60);
+}
+
+.viewR_sec h2{
+    font-family:Brush Script MT;
+    color: rgb(125, 89, 89);
+    font-size: 35px;
+    margin-top: 20px;
+    text-align: center;
+}
+.viewR_sec p{
+    font-family:Franklin Gothic Medium,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif; 
+    font-size: 16px;
+    text-transform: capitalize;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 3px 2px rgba(157, 9, 9, 0.748) ;
+}
+.viewR_sec h5{
+    text-align: center;
+    color: tomato;
+}

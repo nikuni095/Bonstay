@@ -1,0 +1,35 @@
+.login{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    margin-top: 100px;
+    width: 400px;
+    background-color:whitesmoke;
+    border-radius: 8px;
+    height: 365px;
+}
+.form form{
+    margin-left:40px;
+    margin-top: 20px;
+    
+}
+.form form >*{
+    width: 300px;
+}
+.form button{
+    width: 309px;
+    height: 30px;
+    color: white;
+    background-color:rgb(125, 89, 89);
+}
+.form h2{
+    font-family:Brush Script MT;
+    color: rgb(125, 89, 89);
+    font-size: 40px;
+}
+
+.sign{
+    margin-left: 40px;
+    font-size: 18px;
+}

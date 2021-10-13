@@ -1,0 +1,29 @@
+.main_room{
+    display: flex;
+    justify-content: center;
+   
+}
+.sec_room{
+    margin-top: 30px;
+    height: 450px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    color: rgb(95, 60, 60);
+}
+.sec_room >*{
+    margin-left: 20px;
+}
+.sec_room h2{
+    text-align: center;
+    margin-left: 0px;
+}
+
+.f_room select{
+    width: 250px;
+}
+.sec_room button{
+    width: 250px;
+    color: white;
+    background-color: rgb(95, 60, 60);
+}
